@@ -6,7 +6,7 @@ public class firstProject {
 		// TODO Auto-generated method stub
 		System.out.print("hello world !");  //test data 
 		
-		
+		System.out.print("Good morning");
 		
 		
 
