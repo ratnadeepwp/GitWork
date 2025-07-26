@@ -7,6 +7,7 @@ public class firstProject {
 		System.out.print("hello world !");  //test data 
 		
 		System.out.print("Good morning");
+		System.out.print("Good Evening");  //evening work
 		
 		
 
