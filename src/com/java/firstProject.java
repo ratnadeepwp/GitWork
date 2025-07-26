@@ -9,7 +9,7 @@ public class firstProject {
 		System.out.print("Good morning");
 		System.out.print("Good Evening");  //evening work
 		
-		System.out.print("code from mumbai");  //evening work
+		System.out.print("Code from mumbai");  //evening work
 		
 		
 		
